@@ -13,4 +13,4 @@
 - 📅 **Planned to learn**: Tailwind CSS.
 
 ### Have a nice day! 
-- 📢 Feel free to [contact](sen98ia@gmail.com) me about anything!
+- 📢 Feel free to contact me about anything!
