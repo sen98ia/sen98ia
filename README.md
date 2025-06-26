@@ -3,7 +3,6 @@
 - 👾 I'm a **frontend developer**.
 - 🌌 Based in **Saint Petersburg, Russia**.
 - 💡 Currently, learning **TypeScript**.
-- 👀 Check out my [CV here](#).
 
 ### My skills
 
